@@ -1,0 +1,6 @@
+Commands to commit and fetch from upstream repo
+
+git fetch upstream
+git merge upstream/master //to fetch from upstream repo
+
+git push //to push on forked repo
